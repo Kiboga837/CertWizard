@@ -1,0 +1,6 @@
+fonts-dejavu-core
+fonts-liberation
+fonts-freefont-ttf
+fonts-lato
+fonts-roboto
+fonts-open-sans
