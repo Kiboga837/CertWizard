@@ -1,7 +1,0 @@
-streamlit
-pandas
-openpyxl
-pillow
-qrcode[pil]
-sqlalchemy
-psycopg2-binary
